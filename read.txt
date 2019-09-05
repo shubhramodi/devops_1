@@ -1,2 +1,2 @@
 Hello world
-today is friday
+Today is thursday
